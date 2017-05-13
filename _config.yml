@@ -1,0 +1,21 @@
+# Site settings
+title: purpose.find
+header-img: img/home-bg.png
+email: hall.justin.d@gmail.com
+copyright_name: justindhall
+description: > # this means to ignore newlines until "baseurl:"
+  one man's guide to figuring it out
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  justindhall
+learn_profile: justindhall
+email_username: hall.justin.d@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
