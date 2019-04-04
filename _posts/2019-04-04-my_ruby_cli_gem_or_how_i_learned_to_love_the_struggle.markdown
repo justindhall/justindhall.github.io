@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Ruby CLI Gem or: how I learned to love the struggle"
-date:       2019-04-04 19:58:16 +0000
+date:       2019-04-04 15:58:17 -0400
 permalink:  my_ruby_cli_gem_or_how_i_learned_to_love_the_struggle
 ---
 
